@@ -14,7 +14,7 @@ links: [Blog](http://antonis.me/), [Linkedin](http://gr.linkedin.com/in/alilis),
 
 ## experience
 
-#### July 2017 — Present
+#### *July 2017 — Present*
 
 ### R&D Mobile Solution Architect, Digital Banking, [Advantage FSE](http://www.afse.eu)
 
@@ -25,9 +25,9 @@ links: [Blog](http://antonis.me/), [Linkedin](http://gr.linkedin.com/in/alilis),
 *   Contribution in pre-sales technical collaterals
 *   Technical Training
 
-Technologies: iOS SDK, Android SDK, Java, Objective-C, Kotlin, Swift, Cucumber, Appium
+*Technologies*: iOS SDK, Android SDK, Java, Objective-C, Kotlin, Swift, Cucumber, Appium
 
-#### April 2015 — June 2017
+#### *April 2015 — June 2017*
 
 ### Head of Mobile Department, Digital Banking, [Advantage FSE](http://www.afse.eu)
 
@@ -35,9 +35,9 @@ Technologies: iOS SDK, Android SDK, Java, Objective-C, Kotlin, Swift, Cucumber
 *   Participation in the design and development of a native (iOS, Android) mobile banking solution.
 *   Customization of this solution for various clients including: Raiffeisen Bank (Romania), The Agiliti Platform by FISERV (UK), SFT Bank (Curaçao), Clarien Bank (Bermuda), MCB Bank (Curaçao), DSB Bank (Suriname), Bank of Sydney (Australia)
 
-Technologies: iOS SDK, Android SDK, Java, Objective-C, Swift
+*Technologies*: iOS SDK, Android SDK, Java, Objective-C, Swift
 
-#### November 2010 – March 2015
+#### *November 2010 – March 2015*
 
 ### Lead Mobile Software Engineer, [Quality & Reliability S.A.](http://www.qnr.com.gr/)
 
@@ -54,9 +54,9 @@ Technologies: iOS SDK, Android SDK, Java, Objective-C, Swift
 *   Customization of the Digibooks4All white label mobile reader Apps for more than 30 customers worldwide
 *   Guided the design and development of a range of Android and iOS mobile Apps
 
-Technologies: iOS SDK, Android SDK and NDK, JNI, Java, Objective C, C/C++, Javascript, Adobe RMSDK
+*Technologies*: iOS SDK, Android SDK and NDK, JNI, Java, Objective C, C/C++, Javascript, Adobe RMSDK
 
-#### May 2010 – November 2010
+#### *May 2010 – November 2010*
 
 ### Mobile Software Engineer (Contractor), Niobium Labs Ltd
 
@@ -66,9 +66,9 @@ Technologies: iOS SDK, Android SDK and NDK, JNI, Java, Objective C, C/C++, Javas
 *   Participated in the development of a BlackBerry and an iPhone App
 *   Participated in the development of the GIS subsystem of a real estate webportal
 
-Technologies: iOS SDK, Android SDK, Java, Objective C, PostgreSQL (PostGIS), Layar platform, Junaio platform
+*Technologies*: iOS SDK, Android SDK, Java, Objective C, PostgreSQL (PostGIS), Layar platform, Junaio platform
 
-#### June 2008 – May 2010
+#### *June 2008 – May 2010*
 
 ### Senior Software Engineer, [Satways Ltd](http://satways.net/)
 
@@ -83,9 +83,9 @@ Technologies: iOS SDK, Android SDK, Java, Objective C, PostgreSQL (PostGIS), Lay
 
 *   Helped in tender/proposal writing for a wide range of projects
 
-Technologies: Java, C# (.NET), ESRI ArcGIS, Skyline 3D GIS, MS SQL Server, PostgreSQL (PostGIS), JBoss
+*Technologies*: Java, C# (.NET), ESRI ArcGIS, Skyline 3D GIS, MS SQL Server, PostgreSQL (PostGIS), JBoss
 
-#### August 2007 – August 2008
+#### *August 2007 – August 2008*
 
 ### Java Developer/IT Support, Research and Informatics Corps, Hellenic Army
 
@@ -94,11 +94,11 @@ Main Projects:
 *   A custom reporting engine written in java, defined with XML and targeting old dot matrix printers
 *   Custom software to handle database migration from Ingres to Oracle
 
-Technologies: Java, Oracle, Ingres
+*Technologies*: Java, Oracle, Ingres
 
-Other Responsibilities: Computer hardware repair, Structured cabling design and installation, Network Administration
+*Other Responsibilities*: Computer hardware repair, Structured cabling design and installation, Network Administration
 
-#### September 2005 – December 2007
+#### *September 2005 – December 2007*
 
 ### Research Assistant, Department of Informatics and Telecommunications, [National and Kapodistrian University of Athens](http://scan.di.uoa.gr/)
 
@@ -110,30 +110,30 @@ Other Responsibilities: Computer hardware repair, Structured cabling design and 
 *   E2R II Project deliverables
 *   Research publications
 
-Technologies: Java, J2ME, C, Jess Rule Engine, Protege Ontology Editor
+*Technologies*: Java, J2ME, C, Jess Rule Engine, Protege Ontology Editor
 
-#### February 2005 – September 2005
+#### *February 2005 – September 2005*
 
 ### Software Developer, Hitech SNT S.A.
 
 *   Participated in the development of an ERP/CRM Product
 *   Customization and deployment of the ERP Product
 
-Technologies: Visual Basic .NET, SQL Server 2000
+*Technologies*: Visual Basic .NET, SQL Server 2000
 
-#### August 2004
+#### *August 2004*
 
 ### Technical Support, International Broadcast Center, Athens 2004
 
 Volunteer participation in the Athens 2004 Olympic Games
 
-#### February 2004 – June 2004
+#### *February 2004 – June 2004*
 
 ### Network Administrator, Computer Science Laboratory, [Athens University of Economics and Business](http://www.cs.aueb.gr/)
 
 Network administration, Laboratory management, User support
 
-#### February 2001 – May 2001
+#### *February 2001 – May 2001*
 
 ### Customer Service Center, Hellenic Telecommunications Organization (OTE S.A.)
 
