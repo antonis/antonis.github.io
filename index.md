@@ -1,8 +1,8 @@
 # Antonis Lilis
 
-## Mobile Software Engineer
+### Mobile Software Engineer
 
-#### Software Engineer with experience in a wide range of domains including Mobile software development, Fintech, Fleet Management and GIS. Passionate about technology and everything mobile.
+Software Engineer with experience in a wide range of domains including Mobile software development, Fintech, Fleet Management and GIS. Passionate about technology and everything mobile.
 
 email: [antonis.lilis@gmail.com](mailto:antonis.lilis@gmail.com)
 
