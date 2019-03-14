@@ -2,13 +2,13 @@
 
 ### Mobile Software Engineer
 
-Software Engineer with experience in a wide range of domains including Mobile software development, Fintech, Fleet Management and GIS. Passionate about technology and everything mobile.
+#### Software Engineer with experience in a wide range of domains including Mobile software development, Fintech, Fleet Management and GIS. Passionate about technology and everything mobile.
 
-email: [antonis.lilis@gmail.com](mailto:antonis.lilis@gmail.com)
+*email*: [antonis.lilis@gmail.com](mailto:antonis.lilis@gmail.com)
 
-location: Athens, Greece
+*location*: Athens, Greece
 
-links: [Blog](http://antonis.me/), [Linkedin](http://gr.linkedin.com/in/alilis), [GitHub](https://github.com/antonis)
+*links*: [Blog](http://antonis.me/), [Linkedin](http://gr.linkedin.com/in/alilis), [GitHub](https://github.com/antonis)
 
 * * *
 
