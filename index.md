@@ -52,7 +52,7 @@ Technologies: iOS SDK, Android SDK, Java, Objective-C, Swift
 *   Customization of the Digibooks4All white label mobile reader Apps for more than 30 customers worldwide
 *   Guided the design and development of a range of Android and iOS mobile Apps
 
-*Technologies*: iOS SDK, Android SDK and NDK, JNI, Java, Objective C, C/C++, Javascript, Adobe RMSDK
+Technologies: iOS SDK, Android SDK and NDK, JNI, Java, Objective C, C/C++, Javascript, Adobe RMSDK
 
 #### May 2010 – November 2010
 
