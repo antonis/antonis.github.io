@@ -23,6 +23,8 @@ links: [Blog](http://antonis.me/), [Linkedin](http://gr.linkedin.com/in/alilis),
 *   Proof of Concept implementations of new features
 *   Evaluation of new technologies
 *   Contribution in pre-sales technical collaterals
+*   Software architecture
+*   Software development
 *   Technical Training
 
 Technologies: iOS SDK, Android SDK, Java, Objective-C, Kotlin, Swift, Cucumber, Appium
