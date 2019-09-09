@@ -26,6 +26,7 @@ links: [Blog](http://antonis.me/), [Linkedin](http://gr.linkedin.com/in/alilis),
 *   Software architecture
 *   Software development
 *   Technical Training
+*   Onsite technical consulting at [Praxia Bank](https://www.praxiabank.com)
 
 Technologies: iOS SDK, Android SDK, Java, Objective-C, Kotlin, Swift, Cucumber, Appium
 
@@ -161,6 +162,7 @@ English, Proficient (Working experience, Certificate of Proficiency in English)
 
 *   [Co-organizer of Athens iOS MeetUps](https://www.meetup.com/Athens-iOS-MeetUps/)
 *   [Co-organizer of Kotlin Athens Meetup](https://www.meetup.com/Kotlin-Athens/)
+*   [Kotlin implementation of JsonLogic](https://github.com/advantagefse/json-logic-kotlin)
 *   [TV Album Android TV App](https://play.google.com/store/apps/details?id=com.euapps.cloudalbum)
 *   [Map Monster iOS Game](https://github.com/antonis/MapMonster)
 *   [Pressure Drop Calculator Android App](https://play.google.com/store/apps/details?id=com.euapps.liq) (50.000+ downloads)
