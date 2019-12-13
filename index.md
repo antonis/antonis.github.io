@@ -26,7 +26,7 @@ links: [Blog](http://antonis.me/), [Linkedin](http://gr.linkedin.com/in/alilis),
 *   Software architecture
 *   Software development
 *   Technical Training
-*   Onsite technical consulting at [Praxia Bank](https://www.praxiabank.com)
+*   Onsite technical consulting
 
 Technologies: iOS SDK, Android SDK, Java, Objective-C, Kotlin, Swift, Cucumber, Appium
 
