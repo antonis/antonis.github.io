@@ -177,11 +177,12 @@ English, Proficient (Working experience, Certificate of Proficiency in English)
 *   Mobile Software Development for Java developers: iOS vs Android ([JHUG](http://www.jhug.gr) April 2012)
 *   Mobile Application Security ([Athens Digital Week](https://www.athensdigitalweek.gr) 2010)
 
-## publications
-
-*   M. Muck, S. Buljore, D. Bourse, P. Martigne, A. Lilis, E. Patouni, M. Stamatelatos, N. Alonistioti, K. Tsagkaris, P. Demestichas, "Reconfigurable Wireless Communication Systems applying Distributed Decision-Making in a Heterogeneous Radio Environment", 16th IST Mobile and Wireless Communications Summit, Budapest, Hungary, July 2007
+## articles and publications
+*   [An introduction to Kotlin Coroutines, Kotlin Weekly Newsletter #124, Dec 16, 2018](https://mailchi.mp/kotlinweekly/kotlin-weekly-124)
+*   [Why Kotlin?, Kotlin Weekly Newsletter #98, Jun 17, 2018](https://mailchi.mp/kotlinweekly/kotlin-weekly-98)
+*   [M. Muck, S. Buljore, D. Bourse, P. Martigne, A. Lilis, E. Patouni, M. Stamatelatos, N. Alonistioti, K. Tsagkaris, P. Demestichas, "Reconfigurable Wireless Communication Systems applying Distributed Decision-Making in a Heterogeneous Radio Environment", 16th IST Mobile and Wireless Communications Summit, Budapest, Hungary, July 2007](https://ieeexplore.ieee.org/document/4299280)
 *   Eleni Patouni, Simon Delaere, Jean-Marc Temerson, Jianming Pan, Antonis Lilis, Olivier Simon, Apostolis Kousaridas, Pieter Ballon, Ji Yang ,Nancy Alonistioti and Markus Muck, "E2R II Scenario on Autonomic Communication Systems for Seamless Experience", Project E²R II White Paper, Oct. 2006
 *   A. Lilis, N. Alonistioti "Policy based Self-Management Framework for Reconfigurable Systems", B3G Cluster Workshop on Policy Based Distributed Decision Making, 03 October 2006 Brussels, Belgium
 *   E. Patouni, A. Merentitis, C. Polychronopoulos, A. Lilis and N. Alonistioti, "Exploiting Protocol Reconfiguration for Autonomic Communication Environments", 15th IST Mobile and Wireless Communications Summit, June 2006, Mykonos, Greece
-*   E. Patouni, A. Lilis, A. Merentitis, N. Alonistioti, C. Beaujean, D. Bourse, E. Nicollet, "Protocol Reconfiguration Schemes for Policy-based Equipment Management", IEEE VTC Fall 06 Conference, Montreal Canada, 25-28.09.06 / Publication Date: Sept. 2006, ISBN: 1-4244-0063-5
+*   [E. Patouni, A. Lilis, A. Merentitis, N. Alonistioti, C. Beaujean, D. Bourse, E. Nicollet, "Protocol Reconfiguration Schemes for Policy-based Equipment Management", IEEE VTC Fall 06 Conference, Montreal Canada, 25-28.09.06 / Publication Date: Sept. 2006, ISBN: 1-4244-0063-5](https://ieeexplore.ieee.org/document/4109857)
 *   E. Patouni, Z. Boufidis, A. Lilis, M Stamatelatos and N. Alonistioti, "The Concept of a Reconfiguration Management Plane" IEEE P1900.B Meeting, Issy-les-Moulineaux, France, 2006
