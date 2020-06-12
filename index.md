@@ -14,7 +14,15 @@ links: [Blog](http://antonis.me/), [Linkedin](http://gr.linkedin.com/in/alilis),
 
 ## experience
 
-#### July 2017 — Present
+#### June 2020 — Present
+
+### Mobile Engineer, [Automattic](https://automattic.com)
+
+*   [Mobile version of Gutenberg](https://github.com/wordpress-mobile/gutenberg-mobile)
+
+Technologies: iOS SDK, Android SDK, Java, Objective-C, Kotlin, Swift, React Native
+
+#### July 2017 — May 2020
 
 ### R&D Mobile Solution Architect, Digital Banking, [Advantage FSE](http://www.afse.eu)
 
@@ -28,7 +36,7 @@ links: [Blog](http://antonis.me/), [Linkedin](http://gr.linkedin.com/in/alilis),
 *   Technical Training
 *   Onsite technical consulting
 
-Technologies: iOS SDK, Android SDK, Java, Objective-C, Kotlin, Swift, Cucumber, Appium
+Technologies: iOS SDK, Android SDK, Java, Objective-C, Kotlin, Swift, Cucumber, Appium
 
 #### April 2015 — June 2017
 
