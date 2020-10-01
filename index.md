@@ -177,6 +177,7 @@ English, Proficient (Working experience, Certificate of Proficiency in English)
 
 ## talks
 
+* [Kotlin for Java developers](https://www.meetup.com/Thessaloniki-Not-Only-Java/events/273318322/) (Thessaloniki not-only Java meetup group, September 2020)
 *   [An introduction to Kotlin Coroutines for Android](https://www.meetup.com/GDG-Android-Athens/events/259046622/) ([GDG Android Athens](http://gdgandroidathens.com), February 2019)
 *   [An introduction to Kotlin Coroutines](https://www.meetup.com/Kotlin-Athens/events/256326323/) ([Kotlin Athens Meetup](https://www.meetup.com/Kotlin-Athens/), December 2018)
 *   [Why Kotlin?](https://antonis.me/2018/06/10/why-kotlin/) ([Voxxed Days Athens](https://voxxeddays.com/athens/) Conference 2018)
