@@ -18,6 +18,8 @@ links: [Blog](http://antonis.me/), [Linkedin](http://gr.linkedin.com/in/alilis),
 
 ### Mobile Engineer, [Automattic](https://automattic.com)
 
+#### Team Lead since August 2021
+
 *   [Mobile version of Gutenberg](https://github.com/wordpress-mobile/gutenberg-mobile)
 *   [WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android)
 *   [WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS)
@@ -171,7 +173,7 @@ English, Proficient (Working experience, Certificate of Proficiency in English)
 ## other
 
 *   [Co-organizer of Athens iOS MeetUps](https://www.meetup.com/Athens-iOS-MeetUps/)
-*   [Co-organizer of Kotlin Athens Meetup](https://www.meetup.com/Kotlin-Athens/)
+*   [Organizer of Kotlin Athens Meetup](https://www.meetup.com/Kotlin-Athens/)
 
 ## talks
 
