@@ -173,7 +173,6 @@ English, Proficient (Working experience, Certificate of Proficiency in English)
 ## other
 
 *   [Certified Scrum Product Owner® (CSPO®)](https://bcert.me/sakmjbggx)
-*   [Co-organizer of Athens iOS MeetUps](https://www.meetup.com/Athens-iOS-MeetUps/)
 *   [Organizer of Kotlin Athens Meetup](https://www.meetup.com/Kotlin-Athens/)
 
 ## talks
