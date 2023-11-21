@@ -18,13 +18,14 @@ links: [Blog](http://antonis.me/), [Linkedin](http://gr.linkedin.com/in/alilis),
 
 ### Mobile Engineer, [Automattic](https://automattic.com)
 
-#### Team Lead since August 2021
+#### Interim Lead of Leads: July 2023 - September 2023
+#### Team Lead: August 2021 - June 2023
 
-*   [Mobile version of Gutenberg](https://github.com/wordpress-mobile/gutenberg-mobile)
 *   [WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android)
 *   [WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS)
+*   [Mobile version of Gutenberg](https://github.com/wordpress-mobile/gutenberg-mobile)
 
-Technologies: iOS SDK, Android SDK, Java, Objective-C, Kotlin, Swift, JavaScript, React Native
+Technologies: Android SDK, Kotlin, Java, iOS SDK, Swift, Objective-C, JavaScript, React Native
 
 #### July 2017 — May 2020
 
