@@ -2,7 +2,7 @@
 
 ### Mobile Software Engineer
 
-#### Software Engineer with experience in a wide range of domains including Mobile software development, CMS, Fintech, Fleet Management and GIS. Passionate about technology and everything mobile.
+#### Software Engineer with experience in a wide range of domains including Mobile software development, CMS, Fintech, Fleet Management and GIS. Passionate about technology, open-source and everything mobile.
 
 email: [antonis.lilis@gmail.com](mailto:antonis.lilis@gmail.com)
 
@@ -14,7 +14,7 @@ links: [Blog](http://antonis.me/), [Linkedin](http://gr.linkedin.com/in/alilis),
 
 ## experience
 
-#### June 2020 — Present
+#### June 2020 — June 2024
 
 ### Mobile Engineer, [Automattic](https://automattic.com)
 
@@ -174,6 +174,7 @@ English, Proficient (Working experience, Certificate of Proficiency in English)
 ## other
 
 *   [Certified Scrum Product Owner® (CSPO®)](https://bcert.me/sakmjbggx)
+*   [Reboot Leadership Training](https://www.reboot.io/)
 *   [Organizer of Kotlin Athens Meetup](https://www.meetup.com/Kotlin-Athens/)
 
 ## talks
