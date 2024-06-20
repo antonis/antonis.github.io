@@ -58,8 +58,6 @@ Technologies: Android SDK, iOS SDK, Kotlin, Java, Objective-C, Swift, Testing to
 
 Technologies: Android SDK, iOS SDK, Kotlin, Java, Objective-C, Swift
 
-<div style="page-break-after: always;"></div>
-
 #### November 2010 – March 2015
 
 ### Lead Mobile Software Engineer, [Quality & Reliability S.A.](http://www.qnr.com.gr/)
@@ -89,8 +87,6 @@ Technologies: iOS SDK, Android SDK and NDK, JNI, Java, Objective C, C/C++, Javas
 
 Technologies: iOS SDK, Android SDK, Java, Objective C, PostgreSQL (PostGIS), Layar platform, Junaio platform
 
-<div style="page-break-after: always;"></div>
-
 #### June 2008 – May 2010
 
 ### Senior Software Engineer, [Satways Ltd](http://satways.net/)
@@ -118,8 +114,6 @@ Main Projects:
 Technologies: Java, Oracle, Ingres
 
 Other Responsibilities: Computer hardware repair, Structured cabling design and installation, Network Administration
-
-<div style="page-break-after: always;"></div>
 
 #### September 2005 – December 2007
 
@@ -154,8 +148,6 @@ Volunteer participation in the Athens 2004 Olympic Games
 
 Network administration, Laboratory management, User support
 
-<div style="page-break-after: always;"></div>
-
 #### February 2001 – May 2001
 
 ### Customer Service Center, Hellenic Telecommunications Organization (OTE S.A.)
@@ -189,8 +181,6 @@ English, Proficient (Working experience, Certificate of Proficiency in English)
 * [Certified Scrum Product Owner® (CSPO®)](https://bcert.me/sakmjbggx)
 * [Reboot Leadership Training](https://www.reboot.io/)
 * [Organizer of Kotlin Athens Meetup](https://www.meetup.com/Kotlin-Athens/)
-
-<div style="page-break-after: always;"></div>
 
 ## talks
 
