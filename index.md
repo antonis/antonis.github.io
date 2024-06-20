@@ -4,9 +4,9 @@
 
 #### Software Engineer with experience in a wide range of domains including mobile software development, CMS, Fintech, Fleet Management, and GIS. Passionate about technology, open source, and everything mobile.
 
-email: [antonis.lilis@gmail.com](mailto:antonis.lilis@gmail.com)
-links: [GitHub](https://github.com/antonis), [Blog](http://antonis.me/), [Linkedin](http://gr.linkedin.com/in/alilis)
-location: Athens, Greece
+* email: [antonis.lilis@gmail.com](mailto:antonis.lilis@gmail.com)
+* links: [GitHub](https://github.com/antonis), [Blog](http://antonis.me/), [Linkedin](http://gr.linkedin.com/in/alilis)
+* location: Athens, Greece
 
 * * *
 
