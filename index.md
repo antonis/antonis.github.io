@@ -2,7 +2,7 @@
 
 ### Mobile Software Engineer
 
-#### Software Engineer with experience in a wide range of domains including mobile software development, CMS, Fintech, Fleet Management, and GIS. Passionate about technology, open source, and everything mobile.
+#### Software Engineer and experienced lead in a wide range of domains focusing on native mobile development for more than 15 years. Passionate about technology, open source, and everything mobile.
 
 * email: [antonis.lilis@gmail.com](mailto:antonis.lilis@gmail.com)
 * links: [GitHub](https://github.com/antonis), [Blog](http://antonis.me/), [Linkedin](http://gr.linkedin.com/in/alilis)
