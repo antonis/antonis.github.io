@@ -12,6 +12,18 @@
 
 ## experience
 
+#### September 2024 — present
+
+### Mobile SDK Engineer (contractor), [Sentry](https://sentry.io)
+
+Individual code contributor in the Sentry Mobile SDK:
+
+* [Sentry React Native](https://github.com/getsentry/sentry-react-native)
+* [Sentry Cocoa](https://github.com/getsentry/sentry-cocoa)
+* [Sentry Java](https://github.com/getsentry/sentry-java)
+
+Technologies: React Native, JavaScript, Typescript, iOS SDK, Swift, Objective-C, Android SDK, Kotlin, Java
+
 #### June 2020 — June 2024
 
 ### Mobile Engineer, [Automattic](https://automattic.com)
