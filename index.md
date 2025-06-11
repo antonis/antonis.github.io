@@ -19,6 +19,7 @@
 Individual code contributor in the Sentry Mobile SDK:
 
 * [Sentry React Native](https://github.com/getsentry/sentry-react-native)
+* [Sentry Wizard](https://github.com/getsentry/sentry-wizard)
 * [Sentry Cocoa](https://github.com/getsentry/sentry-cocoa)
 * [Sentry Java](https://github.com/getsentry/sentry-java)
 
@@ -192,7 +193,7 @@ English, Proficient (Working experience, Certificate of Proficiency in English)
 
 * [Certified Scrum Product Owner® (CSPO®)](https://bcert.me/sakmjbggx)
 * [Reboot Leadership Training](https://www.reboot.io/)
-* [Organizer of Kotlin Athens Meetup](https://www.meetup.com/Kotlin-Athens/)
+* Organizer of local meetups [Kotlin Athens Meetup](https://www.meetup.com/Kotlin-Athens/) (2018 - 2024), [Athens iOS MeetUps](https://www.meetup.com/athens-ios-meetups/) (2018 - 2020)
 
 ## talks
 
