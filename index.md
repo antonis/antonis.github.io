@@ -175,7 +175,7 @@ Call Center Customer Service Representative
 
 ### [Athens University of Economics and Business](https://www.dept.aueb.gr/cs)
 
-Bachelor's degree in Computer Science
+[Bachelor's degree in Informatics](https://alumni.aueb.gr/el/aueb-alumni-mybadge/890/298051482)
 
 ## programming languages
 
